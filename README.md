@@ -19,7 +19,7 @@ Avant de commencer, assurez-vous d'avoir installé les dépendances suivantes :
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/store-sales-analyzer.git
+   git clone https://github.com/NourIslamAoudia/data-analytics-llm
    cd store-sales-analyzer
 
 2. installez les dépendances :
